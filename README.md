@@ -1,6 +1,6 @@
 # ycsb-iredis-binding
 
-This is a proof-of-concept implementation of the ideas presented in the "Crowdsourced Data Integrity Verification for  Key-Value Stores in the Cloud" paper.
+This is a proof-of-concept implementation of the ideas presented in the "Crowdsourced Data Integrity Verification for  Key-Value Stores in the Cloud" paper (CCGRID-2017).
 
 ## Installation
 * Download the YCSB project from https://github.com/brianfrankcooper/YCSB.git
